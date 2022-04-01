@@ -1,11 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4efb37a3.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.3fe46759.js",
+=======
+    "main.js": "/static/js/main.6df3e1e0.js",
+>>>>>>> 007574a83e4be458b37fc212d0c7cf55eba4b3db
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.4efb37a3.css",
+<<<<<<< HEAD
     "static/js/main.3fe46759.js"
+=======
+    "static/js/main.6df3e1e0.js"
+>>>>>>> 007574a83e4be458b37fc212d0c7cf55eba4b3db
   ]
 }
